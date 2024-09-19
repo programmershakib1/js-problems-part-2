@@ -99,7 +99,7 @@ function smallestName(array) {
 
 
 
-const heights2 = ['rahim', 'robin', 'rafi', 'ron', 'rashed'];
+const heights2 = ['rahim', 'roben', 'rafi', 'ron', 'rashed'];
 
 let smallestName = heights2[0];
 
